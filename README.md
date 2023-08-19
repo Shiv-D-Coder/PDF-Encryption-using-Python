@@ -2,8 +2,6 @@
 
 This Python script encrypts a PDF file with a password using the PyPDF2 library. The encrypted PDF file will require a password to open and view its contents, adding an extra layer of security to sensitive documents.
 
-## Usage
-
 Demo Link: https://pdf-encryption.streamlit.app/
 
 ## Requirements
